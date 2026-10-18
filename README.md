@@ -141,6 +141,11 @@ Qualitative evaluation on satellite tiles of public airfields:
 - Aircraft are detected on stands, taxiways, and runways, including densely packed parking areas.
 - Typical confidence for clearly visible aircraft is 0.8-0.9; smaller or partially occluded objects are detected with confidence 0.5-0.8.
 - Representative frames yield 45-60 detections per scene with no visible duplicate boxes after global NMS.
+  
+## Example Detections
+<img width="644" height="588" alt="example_1" src="https://github.com/user-attachments/assets/8c113946-1841-4d08-989e-b4af6d9dbed9" />
+<img width="644" height="588" alt="example_2" src="https://github.com/user-attachments/assets/fc02675b-1947-4974-a0ed-8fd35e2dec59" />
+<img width="644" height="588" alt="example_3" src="https://github.com/user-attachments/assets/e93792c4-f2ef-430f-b7dc-8777c22005de" />
 
 ## Technical Notes
 
